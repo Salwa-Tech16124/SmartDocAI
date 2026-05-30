@@ -20,7 +20,8 @@
 ## 🎀 The Magic Boutique
 
 Welcome to **SmartDoc Assistant**, a premium, luxury feminine AI platform designed to make document processing feel effortless and elegant. Say goodbye to clunky, corporate UI. We've introduced a "Soft Girl" and "Princess Diary" aesthetic powered by cutting-edge neural networks. 
-
+Live Demo Link ⭐:
+https://salwa-tech16124-smartdocai-app-nghgr6.streamlit.app/
 ---
 
 ## ✨ Enchanted Features

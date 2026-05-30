@@ -153,6 +153,11 @@ st.markdown("""
         border-bottom: 3px solid var(--rose-gold) !important;
     }
     
+    div.stButton {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
     .stButton > button {
         background: linear-gradient(135deg, var(--rose-gold), var(--soft-pink));
         color: white;
@@ -165,7 +170,9 @@ st.markdown("""
         letter-spacing: 0.5px;
         box-shadow: 0 6px 15px rgba(216, 167, 177, 0.3);
         transition: all 0.3s ease;
-        width: 100%;
+        width: max-content !important;
+        margin: 0 auto !important;
+        display: block !important;
     }
     .stButton > button:hover {
         background: linear-gradient(135deg, var(--soft-pink), var(--rose-gold));
